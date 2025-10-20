@@ -1,25 +1,31 @@
 # Tic Tac Toe (Android)
 
-A simple two-player Tic Tac Toe Android app developed in Java.  
-This project demonstrates activity lifecycle management, UI design using XML, and game logic implementation.
+This is my first Android project — a simple two-player **Tic Tac Toe** game built using Java and XML in Android Studio.  
+The main goal of this project was to learn Android Studio setup, layouts, activity structure, and basic Java logic.
 
 ## Features
-- Two-player mode
-- Custom layout design
-- Game reset and win detection
-- Clean and minimal UI
+
+- Two-player gameplay
+- Simple and clean UI
+- Win detection and reset option
+- Built with Java and XML
+- Fully offline (no permissions required)
 
 ## Tech Stack
-- Android Studio
-- Java
-- XML (UI)
-- Gradle
+
+- **Language:** Java  
+- **UI Design:** XML  
+- **IDE:** Android Studio  
+- **Build Tool:** Gradle  
 
 ## How to Run
-1. Clone this repository
+
+1. Clone or download this repository
 2. Open it in Android Studio
-3. Sync Gradle and click **Run**
+3. Let Gradle sync automatically
+4. Run the app on an emulator or physical device
 
 ## Author
+
 Jaydeep Ahir  
 [LinkedIn](https://www.linkedin.com/in/jaydeep-ahir-811743209/)
