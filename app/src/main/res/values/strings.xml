@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="heading">Welcome to Tic-Tac-Toe</string>
+    <string name="our_main_grid">Our main grid</string>
+    <string name="zeroimage">zeroImage</string>
+    <string name="x_s_trun_tap_to_play">X\'s Trun Tap To Play</string>
+    <string name="by_jaydeep">By Jaydeep</string>
+</resources>
